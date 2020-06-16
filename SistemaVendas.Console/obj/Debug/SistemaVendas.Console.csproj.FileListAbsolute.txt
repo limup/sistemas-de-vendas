@@ -1,0 +1,42 @@
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.csprojAssemblyReference.cache
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.csproj.CoreCompileInputs.cache
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Console.exe.config
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Console.exe
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Console.pdb
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\EntityFramework.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\MySql.Data.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Data.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Data.pdb
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Data.dll.config
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\EntityFramework.xml
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\MySql.Data.xml
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.csproj.CopyComplete
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.exe
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.pdb
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Models.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\Sistema de Vendas\Ravvivare\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Models.pdb
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Console.exe.config
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Console.exe
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Console.pdb
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\EntityFramework.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\MySql.Data.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Data.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Models.dll
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Data.pdb
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Data.dll.config
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\SistemaVendas.Models.pdb
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\EntityFramework.xml
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\MySql.Data.xml
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.csprojAssemblyReference.cache
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.csproj.CoreCompileInputs.cache
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.csproj.CopyComplete
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.exe
+C:\Users\junio\Limup\2- Projetos\Ravvivare\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Console\obj\Debug\SistemaVendas.Console.pdb
