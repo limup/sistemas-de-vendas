@@ -1,6 +1,7 @@
 ﻿using SistemaVendas.Models;
 using System;
 using System.Collections.Generic;
+using System.Data.Common;
 using System.Data.Entity;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,13 @@ namespace SistemaVendas.Data.Context
 {
     public class DatabaseContext : DbContext
     {
-        public DatabaseContext() : base(nameOrConnectionString: "ravvivare") { }
+        static DatabaseContext()
+        {
+            Database.SetInitializer(new MySqlInitializer());
+        }
+
+        public DatabaseContext() 
+            : base(nameOrConnectionString: "capimbambu") { }
 
         public DbSet<CargoModel> CargoDB { get; set; }
         public DbSet<EstoqueModel> EstoqueDB { get; set; }
@@ -24,5 +31,7 @@ namespace SistemaVendas.Data.Context
         public DbSet<RemuneracaoModel> RemuneracaoDB { get; set; }
         public DbSet<UsuarioModel> UsuarioDB { get; set; }
         public DbSet<VendaModel> VendaDB { get; set; }
+
+
     }
 }

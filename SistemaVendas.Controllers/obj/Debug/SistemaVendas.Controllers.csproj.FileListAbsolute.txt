@@ -66,3 +66,20 @@ C:\Users\limup\OneDrive\2- Fontes\Ravvivare\Sistema de Vendas\Projeto\TRAB\2 - D
 C:\Users\limup\OneDrive\2- Fontes\Ravvivare\Sistema de Vendas\Projeto\TRAB\2 - Desenvolvimento\2.4 - Codificação\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Controllers\obj\Debug\SistemaVendas.Controllers.csproj.CopyComplete
 C:\Users\limup\OneDrive\2- Fontes\Ravvivare\Sistema de Vendas\Projeto\TRAB\2 - Desenvolvimento\2.4 - Codificação\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Controllers\obj\Debug\SistemaVendas.Controllers.dll
 C:\Users\limup\OneDrive\2- Fontes\Ravvivare\Sistema de Vendas\Projeto\TRAB\2 - Desenvolvimento\2.4 - Codificação\Visual Studio 2017\SistemaDeVendas\SistemaVendas.Controllers\obj\Debug\SistemaVendas.Controllers.pdb
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\SistemaVendas.Controllers.dll.config
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\SistemaVendas.Controllers.dll
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\SistemaVendas.Controllers.pdb
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\EntityFramework.dll
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\SistemaVendas.Data.dll
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\SistemaVendas.Models.dll
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\SistemaVendas.Data.pdb
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\SistemaVendas.Data.dll.config
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\SistemaVendas.Models.pdb
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\EntityFramework.xml
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\obj\Debug\SistemaVendas.Controllers.csprojAssemblyReference.cache
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\obj\Debug\SistemaVendas.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\obj\Debug\SistemaVendas.Controllers.csproj.CopyComplete
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\obj\Debug\SistemaVendas.Controllers.dll
+C:\Users\limup\OneDrive\2- Fontes\CapimBambu\Visual Studio 2019\Salesflow\SistemaVendas.Controllers\obj\Debug\SistemaVendas.Controllers.pdb
