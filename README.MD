@@ -1,5 +1,5 @@
-[![Commit](https://img.shields.io/github/commit-activity/y/limup/Sistemas-de-Vendas)](https://img.shields.io/github/commit-activity/y/limup/Sistemas-de-Vendas)
-[![Size](https://img.shields.io/github/repo-size/limup/Sistemas-de-Vendas)](https://img.shields.io/github/repo-size/limup/Sistemas-de-Vendas)
+[![Commit](https://img.shields.io/github/commit-activity/m/limup/sistemas-de-vendas)](https://img.shields.io/github/commit-activity/y/limup/sistemas-de-vendas)
+[![Size](https://img.shields.io/github/repo-size/limup/sistemas-de-vendas)](https://img.shields.io/github/repo-size/limup/Sistemas-de-Vendas)
 [![limup](https://img.shields.io/github/followers/limup?style=plastic)](https://img.shields.io/github/followers/limup?style=social)
 
 # Projeto 👋
